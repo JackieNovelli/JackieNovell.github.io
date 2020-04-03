@@ -1,0 +1,13 @@
+The AddNum.py file adds two numbers and states its sum.
+But...
+Due to the creators dumb luck, it copied itself. 
+So...
+It prints the sum line twice.
+
+All you need to do it run the file with "python AddNum.py" in your terminal.The AddNum.py file adds two numbers and states its sum.
+But...
+Due to the creators dumb luck, it copied itself. 
+So...
+It prints the sum line twice.
+
+All you need to do it run the file with "python AddNum.py" in your terminal.
